@@ -8,4 +8,4 @@ Most of them where conducted using:
 * PyTorch
 * scikit-learn
 
-For the sake of clarity, all the images and image folders can be found in the Data folder. They either need to be extracted from the folder into the same notebook that you run or you adjust the path of the data that has to be loaded. 
+For the sake of clarity, all the images and image folders can be found in the Data folder. You can either extract the data from the folder into the same notebook that you run or you can adjust the path of the data that has to be loaded. 
